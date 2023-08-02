@@ -1,10 +1,12 @@
 package Test1pj;
 
-public class Firstproject {
+public class Secondproject {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
- System.out.println("Hello World");
+   int i=10;
+   i= i+1;
+   System.out.println(i);
 	}
 
 }
